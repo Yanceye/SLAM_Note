@@ -1,3 +1,0 @@
-/home/yancey/Desktop/Learning/SLAM_Note/Gauss_Newton/build/CMakeFiles/rebuild_cache.dir
-/home/yancey/Desktop/Learning/SLAM_Note/Gauss_Newton/build/CMakeFiles/Gauss_Newton.dir
-/home/yancey/Desktop/Learning/SLAM_Note/Gauss_Newton/build/CMakeFiles/edit_cache.dir
